@@ -9,7 +9,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 from langchain.embeddings import HuggingFaceEmbeddings
 
-os.environ["REPLICATE_API_TOKEN"] = "r8_Zp68LXylK2MfeWIeEkl93zhQYeh24Dn4BtlIq"
+os.environ["REPLICATE_API_TOKEN"] = "r8_Zp68LXylK2MfeWIeEkl93zhQYeh24Dn4BtlIq" #Use your own replicate api.
 
 def get_pdf_text(pdf_docs):
     text=""
