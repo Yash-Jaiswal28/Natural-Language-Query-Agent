@@ -1,6 +1,8 @@
 ## Natural-Language-Query-Agent_Guide
 
-This user guide provides an overview and instructions for using the PDF Chat Assistant, a Streamlit application that allows users to upload PDF files and ask questions about their content. The app processes the PDFs, creates an index for quick retrieval, and provides detailed answers based on the uploaded documents.
+This user guide provides an overview and instructions for using the model, a Streamlit application that allows users to upload PDF files and ask questions about their content. The app processes the PDFs, creates an index for quick retrieval, and provides detailed answers based on the uploaded documents.
+
+####First, use the requirement.txt file to install all the required libraries.
 
 ### Key Components
 
